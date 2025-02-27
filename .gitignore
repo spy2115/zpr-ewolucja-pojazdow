@@ -1,0 +1,9 @@
+CMakeFiles/
+bin/
+box2d/
+.vscode/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+car_data.json
+saved_generations/
